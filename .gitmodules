@@ -1,0 +1,6 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/matheusmortatti/matheusmortatti.github.io.git
+[submodule "site/public"]
+	path = site/public
+	url = https://github.com/matheusmortatti/matheusmortatti.github.io.git
