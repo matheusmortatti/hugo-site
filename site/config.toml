@@ -1,63 +1,55 @@
-## Basic Configuration
+# Site settings
+baseurl = "http://matheusmortatti.com/"
+themesDir = "../site/themes"
+languageCode = "en-us"
+title = "Matheus Mortatti's Blog"
+theme = "hugo-cactus-theme"
+# Enter your tracking code to enable Google Analytics
+googleAnalytics = ""
+# Disable comments by leaving disqusShortname empty
+disqusShortname = "matheusmortatti-com"
 
-baseurl = "matheusmortatti.com" 
-builddrafts = false
-canonifyurls = false
-languageCode = "en-US"
-
-contentdir = "content"
-layoutdir = "layouts"
-publishdir = "public"
-
-author = "Matheus Mortatti"
-title = "Matheus Mortatti"
-
-theme = "hugo-goa"
-
-## Hugo Built-in Features
-disqusShortname = "https-shenoybr-github-io-hugo-goa-demo" # Comment out to disable Disqus.
-googleAnalytics = "XYZ"
-enableRobotsTXT = true
-
-## Site Settings
 [params]
-author = "Matheus Mortatti"
-intro = "Game Developer and Programmer"
-description = "Computer Engineering Student and Game Developer"
-authorimage = "profile.jpg"
-dateformat = "Jan 17, 2017"
+	name = "Matheus Mortatti"
+	description = "Who am I?"
+	bio = "Game Developer - Programmer"
+	# Enter optionally your twitter account
+	twitter = "MatheusMortatti"
+	enableRSS = true
 
-## Site Meta Settings
-[params.meta]
-description = "Simple minimalist theme"
-keywords = "minimalist,blog,goa,hugo,developer"
+	# Add custom assets with their paths relative to the static folder
+	customCSS = []
+	customJS  = []
 
-## Social Accounts
-[params.social]
-github = "matheusmortatti"
-instagram = "matheusmortatti"
-linkedin = "<username>"
-twitter = "@MatheusMortatti"
-email = "matheusmortatti@gmail.com"
+	# The variables below are optionally too and can be used to
+	# translate or customize each string of the theme.
 
-## Extras
-[params.extra]
-poweredby = true
-hightlightjs = true
+	# Navigation links
+	home = ""
+	about = "About"
+	subscribe = ""
 
-## Main Menu
-[[menu.main]]
-    name = "blog"
-    weight = 100
-    identifier = "blog"
-    url = "/blog/"
-[[menu.main]]
-    name = "about"
-    identifier = "about"
-    weight = 200
-    url = "/about/"
-[[menu.main]]
-    name = "blub"
-    identifier = "blub"
-    weight = 200
-    url = "/blub/"
+	# Pagination links
+	olderPosts = ""
+	newerPosts = ""
+	readMore = ""
+	copyright = ""
+
+	# Sharing options and author information in posts
+	aboutAuthor = "New found excitement"
+	tweet = ""
+	share = ""
+	# 404 page
+	title404 = "You just found a portal for another dimension!"
+	subtitle404 = ""
+
+	# Choose a font for the social icons in the footer. Either "mono-social" or "font-awesome"
+	iconFont = "mono-social"
+    # The social icons can be styled differently if you use mono as font - circle, rounded, or empty
+    socialIconStyle = "circle"
+
+# Add additional social link entries underneath
+[social]
+    twitter  = "https://www.twitter.com/MatheusMortatti"
+    github   = "https://www.github.com/matheusmortatti"
+    email  = "mailto:matheusmortatti@gmail.com"
