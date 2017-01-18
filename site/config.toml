@@ -1,6 +1,6 @@
 ## Basic Configuration
 
-baseurl = "https://shenoybr.github.io/hugo-goa-demo/" 
+baseurl = "matheusmortatti.com" 
 builddrafts = false
 canonifyurls = false
 languageCode = "en-US"
@@ -24,7 +24,7 @@ enableRobotsTXT = true
 author = "Matheus Mortatti"
 intro = "Game Developer and Programmer"
 description = "Computer Engineering Student and Game Developer"
-authorimage = "profile.png"
+authorimage = "profile.jpg"
 dateformat = "Jan 17, 2017"
 
 ## Site Meta Settings
@@ -56,3 +56,8 @@ hightlightjs = true
     identifier = "about"
     weight = 200
     url = "/about/"
+[[menu.main]]
+    name = "blub"
+    identifier = "blub"
+    weight = 200
+    url = "/blub/"
