@@ -11,7 +11,7 @@ disqusShortname = "matheusmortatti-com"
 
 [params]
 	name = "Matheus Mortatti"
-	description = "Who am I?"
+	description = "Deep Space Drifter"
 	bio = "Game Developer - Programmer"
 	# Enter optionally your twitter account
 	twitter = "MatheusMortatti"
@@ -36,7 +36,7 @@ disqusShortname = "matheusmortatti-com"
 	copyright = ""
 
 	# Sharing options and author information in posts
-	aboutAuthor = "New found excitement"
+	aboutAuthor = "Deep Space Drifter"
 	tweet = ""
 	share = ""
 	# 404 page
