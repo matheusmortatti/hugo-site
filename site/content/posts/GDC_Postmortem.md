@@ -1,6 +1,6 @@
 +++
 date = "2017-03-20T10:49:04-03:00"
-draft = true
+draft = false
 title = "From a Student's Perspective: A GDC Postmortem"
 
 +++
@@ -36,3 +36,4 @@ Final words. Do not make the same mistake as I did, saying "hi" is very easy and
  Thanks for reading.
 
  [ M. Mortatti ]
+
