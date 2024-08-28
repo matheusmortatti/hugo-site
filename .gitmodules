@@ -4,3 +4,6 @@
 [submodule "site/public"]
 	path = site/public
 	url = https://github.com/matheusmortatti/matheusmortatti.github.io.git
+[submodule "site/themes/papermod"]
+	path = site/themes/papermod
+	url = https://github.com/adityatelange/hugo-PaperMod.git
