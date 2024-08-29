@@ -1,0 +1,16 @@
+baseURL: 'https://matheusmortatti.com/'
+languageCode: 'en-us'
+title: 'Matheus Mortatti'
+theme: 'papermod'
+
+params:
+  profileMode:
+    enabled: true
+    title: "Matheus Mortatti" # optional default will be site title
+    subtitle: "My personal journey in word format"
+    imageUrl: "/static/images/profile.png" # optional
+    buttons:
+      - name: Archive
+        url: "/archive"
+      - name: Posts
+        url: "/posts"

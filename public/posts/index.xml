@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Matheus Mortatti</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Matheus Mortatti</description>
+    <generator>Hugo -- 0.133.1</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 20 Mar 2017 10:49:04 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>From a Student&#39;s Perspective: A GDC Postmortem</title>
+      <link>http://localhost:1313/posts/gdc_postmortem/</link>
+      <pubDate>Mon, 20 Mar 2017 10:49:04 -0300</pubDate>
+      <guid>http://localhost:1313/posts/gdc_postmortem/</guid>
+      <description>DISCLAIMER: Since I&amp;rsquo;m the one who&amp;rsquo;s writting, all of the words written are based on my experience and views! GDC probably isn&amp;rsquo;t the same for someone else as it was for me. The Game Developers Conference. The dream of every game developer is to have enough money to attend, meet fellow devs, make new friends, score business deals or just get your name out there.
+For me, the journey started way back when GDC 2016 ended.</description>
+    </item>
+  </channel>
+</rss>

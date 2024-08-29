@@ -1,12 +1,4 @@
-[submodule "public"]
-	path = public
-	url = https://github.com/matheusmortatti/matheusmortatti.github.io.git
-[submodule "site/public"]
-	path = site/public
-	url = https://github.com/matheusmortatti/matheusmortatti.github.io.git
-[submodule "site/themes/papermod"]
-	path = site/themes/papermod
+
+[submodule "themes/papermod"]
+	path = themes/papermod
 	url = https://github.com/adityatelange/hugo-PaperMod.git
-[submodule "site/themes/hugo-cactus-theme"]
-	path = site/themes/hugo-cactus-theme
-	url = https://github.com/monkeyWzr/hugo-theme-cactus.git

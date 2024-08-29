@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Matheus Mortatti</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Matheus Mortatti</description>
+    <generator>Hugo -- 0.133.1</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 20 Mar 2017 10:49:04 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>From a Student&#39;s Perspective: A GDC Postmortem</title>
+      <link>http://localhost:1313/posts/gdc_postmortem/</link>
+      <pubDate>Mon, 20 Mar 2017 10:49:04 -0300</pubDate>
+      <guid>http://localhost:1313/posts/gdc_postmortem/</guid>
+      <description>DISCLAIMER: Since I&amp;rsquo;m the one who&amp;rsquo;s writting, all of the words written are based on my experience and views! GDC probably isn&amp;rsquo;t the same for someone else as it was for me. The Game Developers Conference. The dream of every game developer is to have enough money to attend, meet fellow devs, make new friends, score business deals or just get your name out there.
+For me, the journey started way back when GDC 2016 ended.</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Sat, 20 Jun 2015 14:02:37 +0200</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>I&amp;rsquo;m and Undergrad student in Computer Engineering at Universidade de Campinas (UNICAMP - Brazil) who is trying his luck with game development!
+Currently I&amp;rsquo;m programming random games for learning purposes and studying Computer Graphics by my own. The OpenGL waters are DEEP AND I&amp;rsquo;M DROWNING HELP. I&amp;rsquo;m also starting to research Deep Learning topics and have worked on a few projects about it during the CE course.
+Besides that, I try to create some pixel art from time to time and think about stories, plots and mechanics to fit the games I dream of making.</description>
+    </item>
+  </channel>
+</rss>
